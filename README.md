@@ -12,4 +12,11 @@
   * 0624037 沈孟澤
   * 0624041 葉秦妤
   
-My first assignment
+##### `My first assignment`
+
+```
+* 0624025 黃樂昀
+* 0624037 沈孟澤
+* 0624041 葉秦妤
+```
+[高科大](https://www.nkust.edu.tw/)
