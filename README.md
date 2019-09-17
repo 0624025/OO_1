@@ -32,4 +32,4 @@
 
 :+1:
 
-![nkust](680345671.jpg"nkust logo")
+![nkust](680345671.jpg "nkust logo")
